@@ -53,40 +53,40 @@ function draw() {
  setPontoImovelReversivel(width / 2 + 80, height / 2 - 20);
  
  //MG
- setPontoImovelReversivel(width / 2 + 80, height / 2 - 60);
+ setPontoImovelReversivel(width / 2 + 85, height / 2 - 65);
  
  //BA
- setPontoImovelReversivel(width / 2 + 140, height / 2 - 138);
+ setPontoImovelReversivel(width / 2 + 155, height / 2 - 150);
  
  //PA
- setPontoImovelReversivel(width / 2 - 22, height / 2 - 250);
+ setPontoImovelReversivel(width / 2 - 22, height / 2 - 275);
  
  //CE
- setPontoImovelReversivel(width / 2 + 140, height / 2 - 242);
+ setPontoImovelReversivel(width / 2 + 155, height / 2 - 265);
  
  //RN
- setPontoImovelReversivel(width / 2 + 188, height / 2 - 205);
+ setPontoImovelReversivel(width / 2 + 208, height / 2 - 225);
  
  //AM
- setPontoImovelReversivel(width / 2 - 95, height / 2 - 215);
+ setPontoImovelReversivel(width / 2 - 108, height / 2 - 235);
  
  //GO
  setPontoImovelReversivel(width / 2, height / 2 - 160);
  setPontoImovelIreversivel(width / 2 + 5, height / 2 - 163);
   
  //MT
- setPontoImovelReversivel(width / 2 - 56, height / 2 - 170);
- setPontoImovelReversivel(width / 2 - 58, height / 2 - 165);
+ setPontoImovelReversivel(width / 2 - 65, height / 2 - 190);
+ setPontoImovelReversivel(width / 2 - 67, height / 2 - 185);
   
  //MS
- setPontoImovelReversivel(width / 2 - 30, height / 2 - 130);
+ setPontoImovelReversivel(width / 2 - 38, height / 2 - 140);
   
  //DF
  setPontoImovelReversivel(width / 2 + 20, height / 2 - 170);
  setPontoImovelReversivel(width / 2 + 25, height / 2 - 167);
   
  //SC
- setPontoImovelReversivel(width / 2 + 18, height / 2 + 28);
+ setPontoImovelReversivel(width / 2 + 20, height / 2 + 30);
   
  //RS
  setPontoImovelReversivel(width / 2 - 15, height / 2 + 60);
